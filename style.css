@@ -3,3 +3,23 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: antiquewhite;
+}
+
+figcaption {
+  font-size: small;
+  text-align: center;
+}
